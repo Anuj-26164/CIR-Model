@@ -297,5 +297,4 @@ pip install numpy pandas scipy matplotlib scikit-learn statsmodels
 
 ---
 
-*Submission for Finance Club Quantitative Research Project*  
 *Notebook: `cir_yield_curve.ipynb` | Language: Python 3.10+*
