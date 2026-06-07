@@ -1,5 +1,7 @@
 # CIR Yield Curve Modelling — Finance Club Submission
 
+[Open the notebook in Google Colab](https://colab.research.google.com/drive/17AfdBNZbx_R0Meux7H0hCkNq4yycgXVV?usp=sharing)
+
 > **Stochastic Interest Rate Modelling using the Cox-Ingersoll-Ross (CIR) Framework**  
 > Submission for the Finance Club Quantitative Research Project
 
